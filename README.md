@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Nombre desde Visual Studio Code
 ## Fecha: 22/22/2222
+=======
+# Nombre modificado desde Git Hub
+## Fecha: 11/11/1111
+>>>>>>> 353fd5ddab2c88fd9d1a671cfce2c3cac8e6ee31
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio excepturi, dolor ex blanditiis iste inventore, incidunt, possimus rem reprehenderit voluptas voluptates accusamus? Deleniti vero, culpa eaque dolore itaque minus inventore.
 Autem ducimus laudantium, eligendi accusamus officia nihil voluptas debitis iusto, non illo itaque numquam explicabo nostrum id magni labore porro fugiat quod. Commodi quisquam dignissimos illum at tempore sapiente corrupti!
 Earum vitae neque in optio ducimus animi consequatur perspiciatis laboriosam officia modi aperiam cupiditate numquam labore reprehenderit repellendus est mollitia, at tenetur cum? Ducimus architecto reiciendis necessitatibus vel, voluptatum dignissimos.
